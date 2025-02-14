@@ -12,10 +12,10 @@ Ao longo do curso, irei desenvolver diversos exercícios e projetos práticos pa
 
 <h3> Introdução </h3>
 
-  - <a href="./Introdução/[01] Olá Mundo"> [01] Olá Mundo </a>
-  - <a href="./Introdução/[02.03] Tipos Primitivos"> [02.03] Tipos Primitivos </a>
-  - <a href="./Introdução/[04] Operadores"> [04] Operadores </a>
-  - <a href="./Introdução/[05] Estruturas Condicionais"> [05] Estruturas Condicionais </a>
-  - <a href="./Introdução/[06] Estruturas de Repetição"> [06] Estruturas de Repetição </a>
+  - <a href="https://github.com/codinGloria/maratonaJava/tree/main/Introdu%C3%A7%C3%A3o/%5B01%5D%20OlaMundo"> [01] Olá Mundo </a>
+  - <a href="https://github.com/codinGloria/maratonaJava/tree/main/Introdu%C3%A7%C3%A3o/%5B02.03%5D%20Tipos%20Primitivos"> [02.03] Tipos Primitivos </a>
+  - <a href="https://github.com/codinGloria/maratonaJava/tree/main/Introdu%C3%A7%C3%A3o/%5B04%5D%20Operadores"> [04] Operadores </a>
+  - <a href="https://github.com/codinGloria/maratonaJava/tree/main/Introdu%C3%A7%C3%A3o/%5B05%5D%20Estruturas%20Condicionais"> [05] Estruturas Condicionais </a>
+  - <a href="https://github.com/codinGloria/maratonaJava/tree/main/Introdu%C3%A7%C3%A3o/%5B06%5D%20Estruturas%20de%20Repeti%C3%A7%C3%A3o"> [06] Estruturas de Repetição </a>
   
 <br>
