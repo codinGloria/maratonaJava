@@ -12,10 +12,10 @@ Ao longo do curso, irei desenvolver diversos exercícios e projetos práticos pa
 
 <h3> Introdução </h3>
 
-  - [01] Olá Mundo  
-  - [02.03] Tipos Primitivos 
-  - [04] Operadores
-  - [05] Estruturas Condicionais
-  - [06] Estruturas de Repetição
+  - <a href="./Introdução/[01] Olá Mundo"> [01] Olá Mundo </a>
+  - <a href="./Introdução/[02.03] Tipos Primitivos"> [02.03] Tipos Primitivos </a>
+  - <a href="./Introdução/[04] Operadores"> [04] Operadores </a>
+  - <a href="./Introdução/[05] Estruturas Condicionais"> [05] Estruturas Condicionais </a>
+  - <a href="./Introdução/[06] Estruturas de Repetição"> [06] Estruturas de Repetição </a>
   
 <br>
