@@ -13,29 +13,29 @@ Na pasta exercícios temos separado em todos esses tópicos e aulas algumas ativ
 
 <h3> [01] Introdução ✔ </h3>
 
-  - <a href="https://github.com/codinGloria/maratonaJava/tree/main/%5B01%5D%20Introdu%C3%A7%C3%A3o/01.%20OlaMundo"> 01. Olá Mundo </a>
-  - <a href="https://github.com/codinGloria/maratonaJava/tree/main/%5B01%5D%20Introdu%C3%A7%C3%A3o/02.%20Tipos%20Primitivos"> 02. Tipos Primitivos </a>
-  - <a href="https://github.com/codinGloria/maratonaJava/tree/main/%5B01%5D%20Introdu%C3%A7%C3%A3o/03.%20Operadores"> 03. Operadores </a>
-  - <a href="https://github.com/codinGloria/maratonaJava/tree/main/%5B01%5D%20Introdu%C3%A7%C3%A3o/04.%20Estruturas%20Condicionais"> 04. Estruturas Condicionais </a>
-  - <a href="https://github.com/codinGloria/maratonaJava/tree/main/%5B01%5D%20Introdu%C3%A7%C3%A3o/05.%20Estruturas%20de%20Repeti%C3%A7%C3%A3o"> 05. Estruturas de Repetição </a>
-  - <a href="https://github.com/codinGloria/maratonaJava/tree/main/%5B01%5D%20Introdu%C3%A7%C3%A3o/06.%20Arrays%20Simples%20e%20Multidimensionais"> 06. Arrays Simples e Multidimensionais </a>
+  - <a href="./01-Introducao/01.OlaMundo"> 01. Olá Mundo </a>
+  - <a href="./01-Introducao/02.TiposPrimitivos"> 02. Tipos Primitivos </a>
+  - <a href="./01-Introducao/03.Operadores"> 03. Operadores </a>
+  - <a href="./01-Introducao/04.EstruturasCondicionais"> 04. Estruturas Condicionais </a>
+  - <a href="./01-Introducao/05.EstruturasDeRepeticao"> 05. Estruturas de Repetição </a>
+  - <a href="./01-Introducao/06.ArraysSimplesEMultidimensionais"> 06. Arrays Simples e Multidimensionais </a>
   
 <br>
 
 <h3> [02] Orientação a Objetos ✔ </h3>
 
-  - <a href=""> 07. Introdução a Classes </a>
-  - <a href=""> 08. Introdução a Métodos </a>
-  - <a href=""> 09. Sobrecarga de Métodos </a>
-  - <a href=""> 10. Construtores </a>
-  - <a href=""> 11. Bloco de Inicialização </a>
-  - <a href=""> 12. Modificador Estático </a>
-  - <a href=""> 13. Associação </a>
-  - <a href=""> 14. Leitura de Dados pelo Console </a>
-  - <a href=""> 15. Herança </a>
-  - <a href=""> 16. Sobrescrita do Método toString </a>
-  - <a href=""> 17. Modificador Final </a>
-  - <a href=""> 18. Enumeração </a>
+  - <a href="./02-OrientacaoAObjetos/07.IntroducaoDeClasses"> 07. Introdução a Classes </a>
+  - <a href="./02-OrientacaoAObjetos/08.IntroducaoDeMetodos"> 08. Introdução a Métodos </a>
+  - <a href="./02-OrientacaoAObjetos/09.SobrecargaDeMetodos"> 09. Sobrecarga de Métodos </a>
+  - <a href="./02-OrientacaoAObjetos/10.Construtores"> 10. Construtores </a>
+  - <a href="./02-OrientacaoAObjetos/11.BlocosDeInicializacao"> 11. Bloco de Inicialização </a>
+  - <a href="./02-OrientacaoAObjetos/12.ModificadorEstatico"> 12. Modificador Estático </a>
+  - <a href="./02-OrientacaoAObjetos/13.Associacao"> 13. Associação </a>
+  - <a href="./02-OrientacaoAObjetos/14.LeituraDeDadosPeloConsole"> 14. Leitura de Dados pelo Console </a>
+  - <a href="./02-OrientacaoAObjetos/15.Heranca"> 15. Herança </a>
+  - <a href="./02-OrientacaoAObjetos/16.SobrescritaDeMetodos"> 16. Sobrescrita do Método toString </a>
+  - <a href="./02-OrientacaoAObjetos/17.ModificadorFinal"> 17. Modificador Final </a>
+  - <a href="./02-OrientacaoAObjetos/18.Enumeracao"> 18. Enumeração </a>
   - <a href=""> 19. Classes Abstratas </a>
   - <a href=""> 20. Interfaces </a>
   - <a href=""> 21. Polimorfismo </a>
